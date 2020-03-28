@@ -4,7 +4,7 @@ Menggunakan DDOS dengan termux bye DUNIA TUTORIAL
 kode perintah 
 
 pkg update && pkg upgrade
-pkg git 
+pkg install git
 pkg python2
 git clone https://github.com/Wahyuoktafian/Ddos-ByDUNIATUTORIAL
 cd ddos2
